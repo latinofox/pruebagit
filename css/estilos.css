@@ -1,3 +1,7 @@
 body{
     background-color: cadetblue;
 }
+ ul{
+     background-color: coral;
+     color: rgb(15, 12, 231);
+ }
